@@ -1,4 +1,6 @@
-# wildfires-R
+# Predicting the spread and size of California wildfires based on meteorology, 1992-2015
+by Nicholas Archambault
+
 Widespread destruction borne from the spread of summertime wildfires has become an annual scourge for millions of residents of the American west. This summer, skies over California were blanketed for days at a time with apocalyptic orange haze, the toxic sign of wildfire activity surging across the state. The New York Times that 2020 is the worst in a series of increasingly more devastating fire seasons. As the result of blazes spread across not only California, but Oregon and Washington as well, over two dozen people have died. Over five million acres have burned across the three states, a sixfold increase from the yearly average between 1950 and 2000. 
 
 Western wildfires, however, are more than destructive crises -- they also represent a symptom of a dangerous long-term environmental trend. As the planet continues to steadily warm, the chaos of 2020's wildfire season will become the yearly norm rather than an anomaly. According to the Los Angeles Times, the ten most destructive fires on record have occurred since 1991, fueled by hotter weather, intense drought, and increasingly exurban settlement to set records that are sure to be broken within the coming years.
