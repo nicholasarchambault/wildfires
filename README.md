@@ -12,3 +12,7 @@ A model that can evaluate and predict the size and potential damage of blazes in
 Data were collected from the U.S. Department of Agriculture and the California Irrigation Management Information System at the California Department of Water Resources.
 
 All documentation of data, description of processes, exploratory visuals, and results are available in file, 'Report'.
+
+
+NOTES:
+This project was completed for Yale undergraduate course S&DS 425: 'Statistical Case Studies'. Project parameters compelled me to use a simple linear model, but the results (or lack thereof) clearly demonstrate that a different model type would have been more appropriate.
